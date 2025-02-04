@@ -13,7 +13,7 @@
 	width:750px;
 	
 }
-.main{
+.holder{
 	display:flex;
 	justify-content:space-between;
 }
